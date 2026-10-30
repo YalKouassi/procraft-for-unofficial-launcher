@@ -15,6 +15,7 @@ tagline = "Raster painting studio in pure Rust: layered painting, brushes and ca
 publisher = "surfrpt1"
 bundle_id = "com.surfrpt1.procraft"   # upstream's Android package and iOS CFBundleIdentifier
 website = "https://github.com/surfrpt1/procraft"
+web_demo = "https://playground.daijro.dev/head/procraft/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#0b3d3a"
 
 [icon]
